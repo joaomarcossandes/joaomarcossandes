@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m João Marcos Sandes de Argôlo<br><br>🎓 Student of Systems Analysis and Development at Uninassau College<br>💻 Passionate about technology, continuous learning, and building practical solutions.</p>
+<p align="left">👋 Hi, I’m João Marcos Sandes de Argôlo<br>🎓 Student of Systems Analysis and Development at Uninassau College<br>💻 Passionate about technology, continuous learning, and building practical solutions.</p>
 
 ###
 
