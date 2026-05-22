@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 </div>
@@ -34,5 +36,3 @@
 <div align="left">
   <img height="198" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N4c2RpZTZyMTdoZXQ2Zmt2cGMwd3NyYmQ0dnoybGp4bWF1a3k4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
-
-###
