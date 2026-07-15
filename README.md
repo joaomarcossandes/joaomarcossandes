@@ -52,9 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" />
   <img width="12" />
   <img width="12" />
-  <img src="claude.svg" height="40" alt="claude logo" />
+  <img src="claude.svg" height="60" alt="claude logo" />
   <img width="12" />
-  <img src="n8n.svg" height="40" alt="n8n logo" />        
+  <img src="n8n.svg" height="60" alt="n8n logo" />        
           
           
           
